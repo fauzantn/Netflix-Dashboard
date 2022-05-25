@@ -8,13 +8,13 @@ Netflix Financial Statements Dashboard
 This project is my capstone project on Tetris Program: Data Analyst Fast Track Program from DQLab
 
 # The Content of Dashboard
--Income Statement
-    -Revenue
-    -Cost of Revenue
-    -Marketing
-    -Net Income
- -Balance Sheet
-    -Addition Content Asset
- -Cashflow Statement
-    -Free Cashflow
-    -Cashflow
+- Income Statement
+    - Revenue
+    - Cost of Revenue
+    - Marketing
+    - Net Income
+ - Balance Sheet
+    - Addition Content Asset
+ - Cashflow Statement
+    - Free Cashflow
+    - Cashflow
