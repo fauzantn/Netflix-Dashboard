@@ -14,7 +14,7 @@ This project is my capstone project on Tetris Program: Data Analyst Fast Track P
     - Marketing
     - Net Income
  - Balance Sheet
-    - Addition Content Asset
+    - Addition Content Assets
  - Cashflow Statement
     - Free Cashflow
     - Cashflow
