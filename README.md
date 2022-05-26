@@ -5,7 +5,7 @@ Netflix Financial Statements Dashboard
 
 [Preview Netflix Financial Statements Dashboard](https://fauzantn.shinyapps.io/capstone/)
 
-Dataset Source: [Netflix - Financials](https://ir.netflix.net/financials/annual-reports-and-proxies/default.aspx)
+Dataset Source: [Netflix - Financials](https://ir.netflix.net/financials/quarterly-earnings/default.aspx)
 
 This project is my capstone project on Tetris Program: Data Analyst Fast Track Program from DQLab
 
